@@ -1,2 +1,2 @@
 # Dynamical-Chern-Simons-Time-Delay
-This repository contains the Mathematica notebooks that complement the computations found in (arxiv number to be matched soon and uploaded soon!). The first one contains the computation of the dispersion relation for dCS gravity that utilizes xAct and corresponding subpackages. The second notebook is for computing the Shapiro time delay at second order in metric perturbations $h_{ab}^{(2)}$. 
+This repository contains the Mathematica notebook that complements the computations found in https://arxiv.org/abs/2604.07332. Within it, there is the computation of the equations of motion, perturbations thereof, the dispersion relation, and Shapiro time delay in metric perturbations at second order $h_{ab}^{(2)}$. 
